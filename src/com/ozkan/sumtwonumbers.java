@@ -9,6 +9,7 @@ public class sumtwonumbers{
 
 
             System.out.println("Sum of two numbers : " + result);
+            System.out.println((3*0.1)==0.3);
         }
 }
 
