@@ -1,6 +1,6 @@
 package com.ozkan.primeNumberProgram;
 
-public class primeNumberProgramUsingMethod {
+public class PrimeNumberProgramUsingMethod {
 
     static void checkPrime(int n){
         int i,m,flag = 0;

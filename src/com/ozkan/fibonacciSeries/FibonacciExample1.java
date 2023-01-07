@@ -1,4 +1,4 @@
-package com.ozkan.javaBasicPrograms;
+package com.ozkan.fibonacciSeries;
 
 public class FibonacciExample1 {
     public static void main(String[] args) {

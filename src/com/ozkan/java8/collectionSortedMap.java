@@ -1,4 +1,4 @@
-package com.ozkan;
+package com.ozkan.java8;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

@@ -1,6 +1,6 @@
-package com.ozkan;
+package com.ozkan.primeNumberProgram;
 
-public class searchNumber {
+public class SearchNumber {
     public static int search(int arr[], int x){
         int n = arr.length;
         for(int i = 0; i < n; i++) {
@@ -13,7 +13,7 @@ public class searchNumber {
         int arr[] = { 1, 3, 5, 7, 9 };
         int x = 7;
 
-        int result = searchNumber.search(arr, x);
+        int result = SearchNumber.search(arr, x);
         if(result == -1)
             System.out.print("Element is not present in array");
         else
